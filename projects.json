@@ -1,0 +1,22 @@
+{
+  "config": {
+    "brand": "beauty-and-joy",
+    "local_base": "/Users/davidcruwys/dev/video-projects/v-beauty-and-joy",
+    "ssd_base": "/Volumes/T7/beauty-and-joy",
+    "last_updated": "2025-11-10T11:46:12Z",
+    "note": "Auto-generated manifest. Regenerate with: vat manifest",
+    "disk_usage": {
+      "local": {
+        "total_bytes": 0,
+        "total_mb": 0.0,
+        "total_gb": 0.0
+      },
+      "ssd": {
+        "total_bytes": 0,
+        "total_mb": 0.0,
+        "total_gb": 0.0
+      }
+    }
+  },
+  "projects": []
+}
