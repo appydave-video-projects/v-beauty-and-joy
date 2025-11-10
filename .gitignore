@@ -71,3 +71,4 @@ build/
 !**/*.srt
 !**/*.yml
 !**/*.yaml
+projects.json
